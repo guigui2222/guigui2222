@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @guigui2222
-- 👀 I’m interested in coding, minecraft and sharing code
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in minecraft, coding and sharing code
 - 📫 How to reach me bibouroulou@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 voici mon serveur discord de communauté de dev :  https://discord.com/invite/mabYWpebBr
 
