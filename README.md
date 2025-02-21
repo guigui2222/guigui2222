@@ -6,8 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Hey !
-GO CHEQUE MON SERVEUR DISCORD DE DEV URL:  https://discord.com/invite/mabYWpebBr
+voici mon serveur discord de communauté de dev :  https://discord.com/invite/mabYWpebBr
 
 <!---
 guigui2222/guigui2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
